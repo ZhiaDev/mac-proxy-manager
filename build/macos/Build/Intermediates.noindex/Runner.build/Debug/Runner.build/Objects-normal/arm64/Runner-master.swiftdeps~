@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c8501f6f1b56702aaae538c91f753dfe1f9db3820be05931a30ba4701e3475be"
+build_start_time: [1696543210, 559612035]
+build_end_time: [1696543210, 647290945]
+inputs:
+  "/Users/sharifidev/Documents/Code/official-projects/macos_proxy_manager/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1696543192, 347177028]
+  "/Users/sharifidev/Documents/Code/official-projects/macos_proxy_manager/macos/Runner/AppDelegate.swift": !private [1696542774, 601628780]
+  "/Users/sharifidev/Documents/Code/official-projects/macos_proxy_manager/macos/Runner/MainFlutterWindow.swift": !private [1696542774, 604162216]
+  "/Users/sharifidev/Documents/Code/official-projects/macos_proxy_manager/macos/Runner/StatusBarController.swift": !private [1696542774, 604598999]
