@@ -1,7 +1,9 @@
-name: flutter_macos_menubar_example
-description: starter template for building menubar app in flutter
+name: macos_proxy_manager
+description: Your Mac's MenuBar Proxy Control
+repository: https://github.com/ZhiaDev/mac-proxy-manager
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+platforms:
+  macos:
 
 version: 1.0.0+1
 
@@ -11,25 +13,18 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.5
+  get: ^4.6.6
   flutter_svg: ^2.0.7
   google_fonts: ^6.1.0
   audioplayers: ^5.2.0
+  cupertino_icons: ^1.0.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^1.0.0
-
 flutter:
-
   uses-material-design: true
 
   assets:
     - assets/
-
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
