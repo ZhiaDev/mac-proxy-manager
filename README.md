@@ -1,5 +1,5 @@
 # MacOS Proxy Manager
- <image src="https://raw.githubusercontent.com/ZhiaDev/mac-proxy-manager/master/assets/github-proxy-manager-cover.jpg" style="border-radius:12px">
+ <image src="https://raw.githubusercontent.com/ZhiaDev/mac-proxy-manager/master/assets/github-proxy-manager-cover.jpg" style="border-radius: 12px">
 
 
 ## About
@@ -24,6 +24,7 @@ Proxy Manager is a Flutter application for managing proxy settings on your MacOS
   <img src="https://raw.githubusercontent.com/ZhiaDev/mac-proxy-manager/master/assets/github-download-for-macos.png" width=200>
 </a>
 
+</br>
 </br>
 🔧 **Build on your system**: To build the app on your system, follow these steps:
 
