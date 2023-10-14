@@ -120,7 +120,10 @@ class CustomDrawer extends StatelessWidget {
                     height: 32,
                     width: 32,
                     child: IconButton.outlined(
-                      onPressed: () {},
+                      onPressed: () {
+                        CustomCommands.openURLInBrowser(context,
+                            link: 'zarinp.al/zhiadev');
+                      },
                       splashRadius: 90,
                       padding: const EdgeInsets.all(0),
                       icon: SizedBox(
