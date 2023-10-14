@@ -14,6 +14,48 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "audioplayers",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers-5.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_android",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers_android-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_darwin",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers_darwin-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_linux",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers_linux-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_platform_interface",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers_platform_interface-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_web",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers_web-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "audioplayers_windows",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/audioplayers_windows-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
       "packageUri": "lib/",
@@ -45,9 +87,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "fake_async",
@@ -58,6 +100,12 @@
     {
       "name": "ffi",
       "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/file-7.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -86,6 +134,18 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/sharifidev/development/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/get-4.6.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "google_fonts",
       "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/google_fonts-6.1.0",
       "packageUri": "lib/",
@@ -102,6 +162,12 @@
       "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
@@ -183,7 +249,7 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/platform-3.1.2",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/platform-3.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -206,6 +272,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "sprintf",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "stack_trace",
       "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
       "packageUri": "lib/",
@@ -220,6 +292,12 @@
     {
       "name": "string_scanner",
       "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/synchronized-3.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -242,20 +320,26 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "uuid",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/uuid-4.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "vector_graphics",
-      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/vector_graphics-1.1.7",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/vector_graphics-1.1.9",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "vector_graphics_codec",
-      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.7",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.1.9",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "vector_graphics_compiler",
-      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.7",
+      "rootUri": "file:///Users/sharifidev/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.1.9",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -290,13 +374,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "flutter_macos_menubar_example",
+      "name": "macos_proxy_manager",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2023-10-05T22:02:35.831188Z",
+  "generated": "2023-10-14T19:25:22.021467Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.1.3"
 }
