@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import '../model/proxies.dart';
+import '/model/proxies_model.dart';
 
 class ProxyController extends GetxController {
   final SocksModel socksModel = SocksModel();

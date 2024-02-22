@@ -1,10 +1,9 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
-import '/utils/custom_commands.dart';
 import 'package:flutter_svg/svg.dart';
 
-import '../pages/settings.dart';
+import '/utils/custom_commands.dart';
+import '/view/pages/settings_view.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({Key? key, required this.scaffoldKey}) : super(key: key);
@@ -158,10 +157,10 @@ class CustomDrawer extends StatelessWidget {
                           BlendMode.srcIn,
                         ),
                       ),
-                      title: const Text("Settings"),
+                      title: const Text('Settings'),
                       onTap: () {
                         Navigator.of(context).push(MaterialPageRoute(
-                          builder: (context) => SettingPage(),
+                          builder: (context) => SettingView(),
                         ));
                       },
                     ),

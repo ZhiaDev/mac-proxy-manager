@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'pages/home.dart';
+import 'view/pages/home_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -28,7 +28,45 @@ class MyApp extends StatelessWidget {
         ),
       ),
       // Set the home page as HomePage with a title 'Proxy Manager'
-      home: const HomePage(title: 'Proxy Manager'),
+      home: const HomeView(title: 'Proxy Manager'),
     );
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/// 
+/// 
+/// m: *
+/// p: * * * *
+/// 
+//
+/// m: * *
+/// p: 
+//
+//
+
+
+
+
+
+
+
+
