@@ -1,10 +1,11 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import '../utils/custom_snackbar.dart';
+import '/utils/custom_snackbar.dart';
 
 class CustomCommands {
   // Open a link in the user's browser
-  static void openURLInBrowser(BuildContext context, {required String link}) async {
+  static void openURLInBrowser(BuildContext context,
+      {required String link}) async {
     ProcessResult result = await Process.run(
       'open',
       ['https://$link'],
@@ -81,6 +82,28 @@ class CustomCommands {
     await Process.run(
       'networksetup',
       ['-setsocksfirewallproxystate', 'Wi-Fi', 'off'],
+      runInShell: true,
+    );
+  }
+
+  // Set bypass proxy list command
+  static Future<ProcessResult> setBypassList({
+    required String bypassList,
+  }) async {
+    final result = await Process.run(
+      'networksetup',
+      ['-setproxybypassdomains', 'Wi-Fi', bypassList],
+      runInShell: true,
+    );
+
+    return result;
+  }
+
+  // Clear bypass proxy list command
+  static Future<void> clearBypassList() async {
+    await Process.run(
+      'networksetup',
+      ['-setproxybypassdomains', 'Wi-Fi', 'Empty'],
       runInShell: true,
     );
   }
