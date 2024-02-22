@@ -5,7 +5,7 @@ repository: https://github.com/ZhiaDev/mac-proxy-manager
 platforms:
   macos:
 
-version: 1.0.0+1
+version: 1.1.0+1
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
