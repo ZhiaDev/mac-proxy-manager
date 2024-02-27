@@ -28,7 +28,7 @@ Proxy Manager is a Flutter application for managing proxy settings on your MacOS
 ### 🔗 Download: 
 You can download the latest release of the app by clicking the button below:
 
-<a href="https://github.com/ZhiaDev/mac-proxy-manager/releases/download/v1.0.0/Proxy-Manager-macos-universal.dmg">
+<a href="https://github.com/ZhiaDev/mac-proxy-manager/releases/latest/download/Proxy-Manager-macos-universal.dmg">
   <img src="https://raw.githubusercontent.com/ZhiaDev/mac-proxy-manager/master/assets/github-download-for-macos.png" width=200>
 </a>
 
