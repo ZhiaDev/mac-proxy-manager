@@ -1,8 +1,17 @@
-# MacOS Proxy Manager
+# MacOS Proxy Manager ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zhiadev/mac-proxy-manager/total?style=flat-square&logo=github&label=DOWNLOADS&labelColor=%2331363C&color=%235648E3)
+
+
+
+
  <image src="https://raw.githubusercontent.com/ZhiaDev/mac-proxy-manager/master/assets/github-proxy-manager-cover.jpg">
 
 ## About
 Proxy Manager is a Flutter application for managing proxy settings on your MacOS MenuBar.  It allows you to easily enable or disable HTTP, HTTPS, and SOCKS proxy settings with a single click.
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zhiadev/mac-proxy-manager/total?style=flat-square&logo=github&label=DOWNLOADS&labelColor=%2331363C&color=%235648E3)
+
+
+
 
 ## Features
 
